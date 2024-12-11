@@ -1,5 +1,5 @@
 ## Description
-This repository contains the source code and files referenced in my [Medium article](https://your-medium-link-here.com), which proposes a solution for supporting multiple timezones in Qlik Sense.
+This repository contains the source code and files referenced in my [Medium article]([https://your-medium-link-here.com](https://medium.com/@zsbaksa/how-to-handle-multiple-time-zones-in-qlik-sense-server-step-by-step-guide-part-1-406079e26d74)), which proposes a solution for supporting multiple timezones in Qlik Sense.
 
 - <I>QlikApp folder:</I> Contains the Qlik Application that is supporting multiple timezones
 - <I>QlikExtension folder:</I> Contains the Qlik Extension that determines the user's timezone using the browsers IANA timezone
